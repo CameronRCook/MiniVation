@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - LoadNewScene
+  - ActionZone
+  - darkSide
+  - lightSide
+  - PlanetGeometry
+  - Shot
+  - Enemy
+  - MainWing
+  - TailWing
+  - TailFin
+  - target
+  - GameManager
+  - CaptureZone
+  - SubManager
+  - ZoneCompletionBar
+  - HighTierActionZone
+  - ZoneProgress
+  - HighTierActionZone
+  - InnerCollider
+  - LowTierActionZone
+  - MidTierActionZone
+  - BoostItem
+  - Audio
+  - SFX
+  - Music
+  - SFX
+  - health
+  - MiniGun
+  - MiniGunColl
+  - Player1
+  - Player2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Player1
+  - Player2
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

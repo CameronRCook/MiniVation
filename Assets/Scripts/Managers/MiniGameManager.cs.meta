@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: a597052e14b086c47b2e02b8cdd94bd2
+timeCreated: 1516814013
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - firstSlot: {instanceID: 0}
+  - secondSlot: {instanceID: 0}
+  - thirdSlot: {instanceID: 0}
+  - fourthSlot: {instanceID: 0}
+  - fifthSlot: {instanceID: 0}
+  - aKey: {fileID: 2800000, guid: 2ad442b35784542d3bea13ccc3924885, type: 3}
+  - dKey: {fileID: 2800000, guid: c02738e1d89c14d4aae5407ce48dfb70, type: 3}
+  - eKey: {fileID: 2800000, guid: 8e2b414c654e5487bb2eb5f93e29edf4, type: 3}
+  - iKey: {fileID: 2800000, guid: 548cfa56070f6443ab7f4659aa738b26, type: 3}
+  - jKey: {fileID: 2800000, guid: 12fa6bf8e892d4a728320ee9d96ca2a1, type: 3}
+  - kKey: {fileID: 2800000, guid: bf0238999998b4ed0ad88ea6d752b018, type: 3}
+  - lKey: {fileID: 2800000, guid: 573fe6c2bc99247bea87f74d9c455ae6, type: 3}
+  - oKey: {fileID: 2800000, guid: 12d718b0b32bb43319573eb0ebac5356, type: 3}
+  - uKey: {fileID: 2800000, guid: dac8180c8ef9b4b27a3dca7387813433, type: 3}
+  - wKey: {fileID: 2800000, guid: 95dac8f163a924d9ab21128ea83fc951, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
